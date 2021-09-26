@@ -13,7 +13,7 @@ Notebook using the advection operator solve a regression problem on PEMS data [[
 
 The data in `examples/data` is third-party, and only provided in the repo to facilitate running the examples.
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\mathcal{D} = (x_i, y_i)_{i=1}^N">
 
 ## Citation
 ```
