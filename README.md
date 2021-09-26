@@ -13,6 +13,7 @@ Notebook using the advection operator solve a regression problem on PEMS data [[
 
 The data in `examples/data` is third-party, and only provided in the repo to facilitate running the examples. 
 
+$`\sqrt{2}`$
 ## Citation
 ```
 @inproceedings{borovitskiy2021matern,
