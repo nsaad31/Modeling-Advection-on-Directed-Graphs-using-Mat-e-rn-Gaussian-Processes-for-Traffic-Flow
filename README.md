@@ -11,9 +11,11 @@ The data $'\mathcal{D} = (x_i, y_i)_{i=1}^N'$ denotes the traffic flow speed in 
 Notebook using the advection operator solve a regression problem on PEMS data [[2]](https://github.com/VeritasYin/STGCN_IJCAI-18/blob/master/data_loader/PeMS-M.zip) is
 > jupyter notebook  examples/Regression_new_operators_cleaned-advec-svd-finite-difference-upwind.ipynb 
 
-The data in `examples/data` is third-party, and only provided in the repo to facilitate running the examples. 
+The data in `examples/data` is third-party, and only provided in the repo to facilitate running the examples.
 
-$\sqrt{3x-1}+(1+x)^2$
+\begin{equation*}
+P(E)   = {n \choose k} p^k (1-p)^{ n-k} 
+\end{equation*}
 
 ## Citation
 ```
